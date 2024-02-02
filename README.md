@@ -1,6 +1,18 @@
+# Weather App
+
+Build using React JS and Openweathermap API for the data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshot
+<img width="262" alt="image" src="https://github.com/brnsbrn/React-Weather-App/assets/113587270/597c4341-eea6-4eae-b37e-94273a9aea33">
+<img width="268" alt="image" src="https://github.com/brnsbrn/React-Weather-App/assets/113587270/cd59a3cb-92b2-441e-a1b2-0272c08f2253">
+<img width="250" alt="image" src="https://github.com/brnsbrn/React-Weather-App/assets/113587270/e4301948-ef86-412a-871a-c3c8e6d7b464">
+<img width="259" alt="image" src="https://github.com/brnsbrn/React-Weather-App/assets/113587270/7f280f39-a76f-4027-b35c-1d3a5019ceb1">
+
+
 
 ## Available Scripts
 
